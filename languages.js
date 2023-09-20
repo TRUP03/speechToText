@@ -1,3 +1,4 @@
+//jshint esversion:6
 const languages = [
   {
     no: "16",

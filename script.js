@@ -68,7 +68,6 @@ function speechToText() {
     };
   } catch (error) {
     recording = false;
-
     console.log(error);
   }
 }
